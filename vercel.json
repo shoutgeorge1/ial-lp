@@ -1,5 +1,25 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/index.html" }
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/accident-lawyer", "destination": "/accident-lawyer.html" },
+    { "source": "/accident-lawyer.html", "destination": "/accident-lawyer.html" },
+    { "source": "/car-accident-lawyer", "destination": "/car-accident-lawyer.html" },
+    { "source": "/car-accident-lawyer.html", "destination": "/car-accident-lawyer.html" },
+    { "source": "/rear-end-accident-lawyer", "destination": "/rear-end-accident-lawyer.html" },
+    { "source": "/rear-end-accident-lawyer.html", "destination": "/rear-end-accident-lawyer.html" },
+    { "source": "/truck-accident-lawyer", "destination": "/truck-accident-lawyer.html" },
+    { "source": "/truck-accident-lawyer.html", "destination": "/truck-accident-lawyer.html" },
+    { "source": "/pedestrian-accident-lawyer", "destination": "/pedestrian-accident-lawyer.html" },
+    { "source": "/pedestrian-accident-lawyer.html", "destination": "/pedestrian-accident-lawyer.html" },
+    { "source": "/lp-anti-lawyer", "destination": "/lp-anti-lawyer.html" },
+    { "source": "/lp-anti-lawyer.html", "destination": "/lp-anti-lawyer.html" },
+    { "source": "/lp-calculator", "destination": "/lp-calculator.html" },
+    { "source": "/lp-calculator.html", "destination": "/lp-calculator.html" },
+    { "source": "/lp-emergency", "destination": "/lp-emergency.html" },
+    { "source": "/lp-emergency.html", "destination": "/lp-emergency.html" },
+    { "source": "/lp-local", "destination": "/lp-local.html" },
+    { "source": "/lp-local.html", "destination": "/lp-local.html" },
+    { "source": "/personal-injury-ca", "destination": "/personal-injury-ca.html" },
+    { "source": "/personal-injury-ca.html", "destination": "/personal-injury-ca.html" }
   ]
 }
